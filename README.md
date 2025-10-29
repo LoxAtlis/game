@@ -366,4 +366,3 @@ Special thanks to:
 
 **Made with 🎮 by LoxAtlis**
 
-[⬆ Back to top](#game)
